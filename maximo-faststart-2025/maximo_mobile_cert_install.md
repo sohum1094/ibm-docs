@@ -1,4 +1,4 @@
-# Maximo Mobile Certificate Installation
+# Maximo FastStart 2025
 
 ## Download the certificate file
 1. Access the Maximo Application Suite server page in your browser on a desktop computer. A message indicates that the connection is not private.
@@ -35,9 +35,13 @@
     1. <img width="300" alt="image" src="https://github.com/user-attachments/assets/a22bbadf-a591-4e9d-a19f-20a5a79c4c3f" />
 
 
-## Congrats! Now you can open up the Maximo Mobile App
+## Congrats! 
+1. Before opening the app, visit the following url to prep the mobile app's connection.
+    1. API Url
+        1. <img width="250" alt="adobe-express-qr-code" src="https://github.com/user-attachments/assets/a265916d-ce5f-4db9-ab12-138104288412" />
 
-1. Server URL (Scan from the IBM Maximo Mobile App)
-    1. <img width="250" alt="image" src="https://github.com/user-attachments/assets/663bbaca-3939-412c-ac99-17050eb5a6a4" />
+2. Now you can open up the Maximo Mobile App and scan the following url:
+    1. Server URL (Scan from the IBM Maximo Mobile App)
+        1. <img width="250" alt="image" src="https://github.com/user-attachments/assets/663bbaca-3939-412c-ac99-17050eb5a6a4" />
 
  
