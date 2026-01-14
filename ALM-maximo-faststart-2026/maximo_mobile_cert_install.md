@@ -1,7 +1,7 @@
 # Maximo Faststart 2026: Maximo Mobile Certificate Installation Guide
 
 ## Download the certificate file
-1. Access the Maximo Application Suite server page in your browser on a desktop computer. A message indicates that the connection is not private.
+1. Access the Maximo Application Suite server `home` page in your browser on a desktop computer. A message indicates that the connection is not private.
     1. On Firefox, click the ```Advanced``` -> ```view certificate``` link to open the certificate in a new tab
         1. <img width="3456" height="2234" alt="image" src="https://github.com/user-attachments/assets/553b9b5b-079e-49e8-8afa-440f360986fe" />
 
